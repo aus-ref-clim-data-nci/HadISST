@@ -20,7 +20,7 @@ $ python hadisst.py
 ```
 
 Monthly updates are managed via the
-[Jenkins accessdev server](https://accessdev.nci.org.au/jenkins/job/aus-ref-clim-data-nci/job/hadISST/).
+[Jenkins accessdev server](https://accessdev.nci.org.au/jenkins/job/aus-ref-clim-data-nci/job/HadISST/).
 
 ## Data location
 
