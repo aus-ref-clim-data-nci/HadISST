@@ -18,6 +18,7 @@ The code uses the requests module to download the files. To run it:
 ```
 $ python hadisst.py
 ```
+(Then use `gunzip` to unzip the data files.)
 
 Monthly updates are managed via the
 [Jenkins accessdev server](https://accessdev.nci.org.au/jenkins/job/aus-ref-clim-data-nci/job/HadISST/).
@@ -27,7 +28,7 @@ Monthly updates are managed via the
 We've downloaded HadISST data to:
 
 ```
-/g/data/ia39/aus-ref-clim-data-nci/hadisst/data/<files>
+/g/data/jt48/aus-ref-clim-data-nci/hadisst/data/<files>
 ```
 
 ## License
